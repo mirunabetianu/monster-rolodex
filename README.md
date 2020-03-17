@@ -1,3 +1,8 @@
+## Application details
+
+Simple React project. A set of cards will be displayed on rows and then using an input text, the cards will be filtered.
+The data is fetch from an online database using an API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
